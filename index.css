@@ -4,9 +4,3 @@ div {
   height: 200px;
   background-color: red;
 }
-span {
-  display: inline-block;
-  width: 500px;
-  height: 500px;
-  background-color: cyan;
-}
